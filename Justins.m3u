@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0,TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8
+#EXTINF:0,TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8
+#EXTINF:0,Three
+https://i.mjh.nz/nz/tv.11.m3u8
+#EXTINF:0,Bravo
+https://i.mjh.nz/nz/tv.12.m3u8
+#EXTINF:0,Māori Television
+https://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:0,PRIME
+https://i.mjh.nz/nz/tv.28.m3u8
+#EXTINF:0,ThreeLife
+https://i.mjh.nz/nz/tv.65.m3u8
+#EXTINF:0,Choice TV
+https://i.mjh.nz/nz/tv.37.m3u8
+#EXTINF:0,DUKE
+https://i.mjh.nz/nz/tv.55.m3u8
+#EXTINF:0,Te Reo
+https://i.mjh.nz/nz/tv.20.m3u8
+#EXTINF:0,Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:0,HGTV
+https://i.mjh.nz/nz/tv.58.m3u8
+#EXTINF:0,TVSN Shopping
+https://i.mjh.nz/nz/tv.45.m3u8
+#EXTINF:0,Shine TV
+https://i.mjh.nz/nz/tv.7.m3u8
+#EXTINF:0,Firstlight
+https://i.mjh.nz/nz/tv.39.m3u8
+#EXTINF:0,Chinese TV28
+https://i.mjh.nz/nz/tv.21.m3u8
+#EXTINF:0,Chinese TV29
+https://i.mjh.nz/nz/tv.36.m3u8
+#EXTINF:0,Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:0,APNA Television
+https://i.mjh.nz/nz/tv.49.m3u8
+#EXTINF:0,Panda TV
+https://i.mjh.nz/nz/tv.63.m3u8
+#EXTINF:0,Wairarapa TV
+https://i.mjh.nz/nz/tv.60.m3u8
+#EXTINF:0,The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+#EXTINF:0,Redbull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:0,TEN
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:0,10 Peach
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:0,10 Bold
+https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
+#EXTINF:0,openshop
+https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
+#EXTINF:0,Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:0,RACING.COM
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+#EXTINF:0,PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:0,Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+#EXTINF:0,Olympics Channel
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+#EXTINF:0,Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:0,7mate HD Sydney
+https://i.mjh.nz/au/Sydney/tv.101305020527.m3u8
+#EXTINF:0,7mate
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:0,7food network Sydney
+https://i.mjh.nz/au/Sydney/tv.10130502052.m3u8
+#EXTINF:0,7flix
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:0,7TWO
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:0,SBS World Movies Sydney
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:0,SBS VICELAND HD
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:0,SBS Food
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:0,SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:0,NITV
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:0,Channel 9
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:0,9Life
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:0,9Go!
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:0,9Gem
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:0,ABC NEWS
+https://i.mjh.nz/au/Sydney/tv.101002210220.m3u8
+#EXTINF:0,ABC ME
+https://i.mjh.nz/au/Sydney/tv.101002210224.m3u8
+#EXTINF:0,ABC KIDS
+https://i.mjh.nz/au/Sydney/tv.101002210222.m3u8
+#EXTINF:0,ABC Comedy
+https://i.mjh.nz/au/Sydney/tv.abc2.m3u8
+#EXTINF:0,ABC
+https://i.mjh.nz/au/Sydney/tv.101002210221.m3u8
+#EXTINF:0,Snowy Mountains Television
+https://i.mjh.nz/au/Sydney/tv.snowy-mountains
+#EXTINF:0,Fox Sports News
+https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+#EXTINF:0,ACCTV
+https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
