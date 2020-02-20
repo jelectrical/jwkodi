@@ -1,42 +1,29 @@
 #EXTM3U
 #EXTINF:0,UK BT SPORTS 1 FHD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/309255
 #EXTINF:0,UK BT SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/309257
 #EXTINF:0,UK BT SPORTS 1 SD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143846
 #EXTINF:0,UK BT SPORTS 2 FHD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143893
 #EXTINF:0,UK BT SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143905
 #EXTINF:0,UK BT SPORTS 2 SD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143845
 #EXTINF:0,UK BT SPORTS 3 FHD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143896
 #EXTINF:0,UK BT SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/309256
 #EXTINF:0,UK BT SPORTS 3 SD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/309254
 #EXTINF:0,UK BT SPORTS ESPN FHD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/362255
 #EXTINF:0,UK BT SPORTS ESPN HD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/262998
 #EXTINF:0,UK ELEVEN SPORTS 1
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/306465
 #EXTINF:0,UK Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/262879
 #EXTINF:0,UK Eurosport 1 SD
 #EXTVLCOPT:network-caching=1000
