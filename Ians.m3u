@@ -1,5 +1,33 @@
 #EXTM3U
 #EXTINF:0,Redbull TV
 https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:0,Fox Sports News
-https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+#EXTINF:0,UK BT SPORTS 1 FHD
+http://bestever.vodiptv.org:83/42698520/68845493/309255
+#EXTINF:0,UK BT SPORTS 1 HD
+http://bestever.vodiptv.org:83/42698520/68845493/309257
+#EXTINF:0,UK BT SPORTS 1 SD
+#EXTVLCOPT:network-caching=1000
+http://bestever.vodiptv.org:83/42698520/68845493/143846
+#EXTINF:0,UK BT SPORTS 2 FHD
+http://bestever.vodiptv.org:83/42698520/68845493/143893
+#EXTINF:0,UK BT SPORTS 2 HD
+http://bestever.vodiptv.org:83/42698520/68845493/143905
+#EXTINF:0,UK BT SPORTS 2 SD
+http://bestever.vodiptv.org:83/42698520/68845493/143845
+#EXTINF:0,UK BT SPORTS 3 FHD
+http://bestever.vodiptv.org:83/42698520/68845493/143896
+#EXTINF:0,UK BT SPORTS 3 HD
+http://bestever.vodiptv.org:83/42698520/68845493/309256
+#EXTINF:0,UK BT SPORTS 3 SD
+http://bestever.vodiptv.org:83/42698520/68845493/309254
+#EXTINF:0,UK BT SPORTS ESPN FHD
+http://bestever.vodiptv.org:83/42698520/68845493/362255
+#EXTINF:0,UK BT SPORTS ESPN HD
+http://bestever.vodiptv.org:83/42698520/68845493/262998
+#EXTINF:0,UK ELEVEN SPORTS 1
+http://bestever.vodiptv.org:83/42698520/68845493/306465
+#EXTINF:0,UK Eurosport 1 HD
+http://bestever.vodiptv.org:83/42698520/68845493/262879
+#EXTINF:0,UK Eurosport 1 SD
+http://bestever.vodiptv.org:83/42698520/68845493/331881
+#EXTINF:0,UK Eurosport 2 HD
