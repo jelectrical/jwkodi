@@ -6,7 +6,6 @@ http://bestever.vodiptv.org:83/42698520/68845493/309255
 #EXTINF:0,UK BT SPORTS 1 HD
 http://bestever.vodiptv.org:83/42698520/68845493/309257
 #EXTINF:0,UK BT SPORTS 1 SD
-#EXTVLCOPT:network-caching=1000
 http://bestever.vodiptv.org:83/42698520/68845493/143846
 #EXTINF:0,UK BT SPORTS 2 FHD
 http://bestever.vodiptv.org:83/42698520/68845493/143893
