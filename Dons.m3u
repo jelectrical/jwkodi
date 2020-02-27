@@ -23,3 +23,25 @@ http://bestever.vodiptv.org:83/17152823/76470223/308852
 http://bestever.vodiptv.org:83/17152823/76470223/353545
 #EXTINF:0,Redbull TV
 https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:0, Ignore the names and Times, some are working right now(normally Live games)
+
+#EXTINF:0,NBA 01: Knicks @ Hornets         02/26 07:00 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376256
+#EXTINF:0,NBA 02: 76ers @ Cavaliers         02/26 07:00 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376255
+#EXTINF:0,NBA 03: Magic @ Hawks         02/26 07:30 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376254
+#EXTINF:0,NBA 04: Timberwolves @ Heat         02/26 07:30 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376253
+#EXTINF:0,NBA 05: Grizzlies @ Rockets     02/26 08:00 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376252
+#EXTINF:0,NBA 06: Mavericks @ Spurs        02/26 08:30 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376251
+#EXTINF:0,NBA 07: Clippers@ Suns         02/26 09:00 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376250
+#EXTINF:0,NBA 08: Celtic @ Jazz 02/26 10.30 PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/376249
+#EXTINF:0,NBA 09:
+http://bestever.vodiptv.org:83/17152823/76470223/376248
+#EXTINF:0,NBA 10: 
+http://bestever.vodiptv.org:83/17152823/76470223/376247
