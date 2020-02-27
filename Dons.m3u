@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,[COLOR red]Don Let me know what channels you would like. A few different streams to try.[/COLOR]
 
+#EXTINF:0, Golf right now
+http://bestever.vodiptv.org:83/17152823/76470223/381401
 #EXTINF:0,VIP FHD SKY SPORTS GOLF
 http://bestever.vodiptv.org:83/17152823/76470223/382164
 #EXTINF:0,VIP HD SKY SPORTS GOLF
