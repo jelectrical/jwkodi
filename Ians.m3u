@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:0,[COLOR red]Ian Let me know what channels you would like.[/COLOR]
 
+#EXTINF:0,[COLOR blue]************Rugby and cricket.************[/COLOR]
+
+#EXTINF:0,VIP FHD SKY SPORTS ACTION
+http://bestever.vodiptv.org:83/17152823/76470223/382169
+#EXTINF:0,VIP FHD Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/309260
+#EXTINF:0,VIP HD SKY SPORTS ACTION
+http://bestever.vodiptv.org:83/17152823/76470223/382180
+#EXTINF:0,VIP FHD SKY SPORTS CRICKET 
+http://bestever.vodiptv.org:83/17152823/76470223/382167
+#EXTINF:0,UK Sky Sports Action
+http://bestever.vodiptv.org:83/17152823/76470223/366649
+#EXTINF:0,UK Sky Sports Action FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366924
+#EXTINF:0,UK Sky Sports Cricket
+http://bestever.vodiptv.org:83/17152823/76470223/366648
+#EXTINF:0,UK Sky Sports Cricket FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366922
+#EXTINF:0,UK Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/366652
+#EXTINF:0,UK Sky Sports Main Events FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366918
+#EXTINF:0,[COLOR blue]************************************************[/COLOR]
+
 #EXTINF:0, Golf right now
 http://bestever.vodiptv.org:83/17152823/76470223/381401
 #EXTINF:0,VIP FHD SKY SPORTS GOLF
