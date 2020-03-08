@@ -1,91 +1,58 @@
 #EXTM3U
-#EXTINF:0,TVNZ 1
-https://i.mjh.nz/nz/tv.9.m3u8
-#EXTINF:0,TVNZ 2
-https://i.mjh.nz/nz/tv.10.m3u8
-#EXTINF:0,Three
-https://i.mjh.nz/nz/tv.11.m3u8
-#EXTINF:0,Bravo
-https://i.mjh.nz/nz/tv.12.m3u8
-#EXTINF:0,Māori Television
-https://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:0,PRIME
-https://i.mjh.nz/nz/tv.28.m3u8
-#EXTINF:0,ThreeLife
-https://i.mjh.nz/nz/tv.65.m3u8
-#EXTINF:0,DUKE
-https://i.mjh.nz/nz/tv.55.m3u8
-#EXTINF:0,The Edge TV
-https://i.mjh.nz/nz/tv.51.m3u8
-#EXTINF:0,Redbull TV
-https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:0,TEN
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:0,10 Peach
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:0,10 Bold
-https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
-#EXTINF:0,openshop
-https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-#EXTINF:0,Seven
-https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:0,RACING.COM
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-#EXTINF:0,PAC-12
-https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-#EXTINF:0,Outdoor Channel
-https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:0,Olympics Channel
-https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-#EXTINF:0,Fuel TV
-https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:0,7mate HD Sydney
-https://i.mjh.nz/au/Sydney/tv.101305020527.m3u8
-#EXTINF:0,7mate
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:0,7food network Sydney
-https://i.mjh.nz/au/Sydney/tv.10130502052.m3u8
-#EXTINF:0,7flix
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:0,7TWO
-https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:0,SBS World Movies Sydney
-https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:0,SBS VICELAND HD
-https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:0,SBS Food
-https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:0,SBS
-https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:0,NITV
-https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:0,Channel 9
-https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:0,9Life
-https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:0,9Go!
-https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:0,9Gem
-https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:0,ABC NEWS
-https://i.mjh.nz/au/Sydney/tv.101002210220.m3u8
-#EXTINF:0,ABC ME
-https://i.mjh.nz/au/Sydney/tv.101002210224.m3u8
-#EXTINF:0,ABC KIDS
-https://i.mjh.nz/au/Sydney/tv.101002210222.m3u8
-#EXTINF:0,ABC Comedy
-https://i.mjh.nz/au/Sydney/tv.abc2.m3u8
-#EXTINF:0,ABC
-https://i.mjh.nz/au/Sydney/tv.101002210221.m3u8
-#EXTINF:0,Fox Sports News
-https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
-#EXTINF:0,ACCTV
-https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
-#EXTINF:0,VIP FHD BBC 1
-http://bestever.vodiptv.org:83/42698520/68845493/374075
-#EXTINF:0,VIP FHD BBC 1
-http://bestever.vodiptv.org:83/42698520/68845493/374158
-#EXTINF:0,VIP SD ITV1
-http://bestever.vodiptv.org:83/42698520/68845493/374110
-#EXTINF:0,VIP SD SKY ATLANTIC
-http://bestever.vodiptv.org:83/42698520/68845493/374221
+#EXTINF:0,VIP FHD BT SPORTS 2
+http://bestever.vodiptv.org:83/17152823/76470223/382157
+#EXTINF:0,BT SPORTS 2 SD
+http://bestever.vodiptv.org:83/17152823/76470223/382155
+#EXTINF:0,BT SPORTS 2 FHD
+http://bestever.vodiptv.org:83/17152823/76470223/382158
+#EXTINF:0,BT SPORT 2 HD
+http://bestever.vodiptv.org:83/17152823/76470223/382159
+#EXTINF:0,PPV 01: AEW Dark  Episode 09-20 - 8pm EST
+http://bestever.vodiptv.org:83/17152823/76470223/361868
+#EXTINF:0,PPV 02: AEW Revolution: Countdown - 11PM EST
+http://bestever.vodiptv.org:83/17152823/76470223/361870
+#EXTINF:0,PPV 03:
+http://bestever.vodiptv.org:83/17152823/76470223/361871
+#EXTINF:0,PPV 05:
+http://bestever.vodiptv.org:83/17152823/76470223/373992
+#EXTINF:0,PPV 06: 
+http://bestever.vodiptv.org:83/17152823/76470223/373993
+#EXTINF:0,PPV 07: 
+http://bestever.vodiptv.org:83/17152823/76470223/374057
+#EXTINF:0,PPV 08:
+http://bestever.vodiptv.org:83/17152823/76470223/374410
+#EXTINF:0,PPV 09:
+http://bestever.vodiptv.org:83/17152823/76470223/375586
+#EXTINF:0,PPV 10:     
+http://bestever.vodiptv.org:83/17152823/76470223/375587
+#EXTINF:0,PPV 11:
+http://bestever.vodiptv.org:83/17152823/76470223/375588
+#EXTINF:0,PPV 12:
+http://bestever.vodiptv.org:83/17152823/76470223/375589
+#EXTINF:0,PPV 13:
+http://bestever.vodiptv.org:83/17152823/76470223/379250
+#EXTINF:0,PPV 14:
+http://bestever.vodiptv.org:83/17152823/76470223/379251
+#EXTINF:0,PPV 15:
+http://bestever.vodiptv.org:83/17152823/76470223/379455
+#EXTINF:0,PPV 16:
+http://bestever.vodiptv.org:83/17152823/76470223/379633
+#EXTINF:0,PPV 17:
+http://bestever.vodiptv.org:83/17152823/76470223/379634
+#EXTINF:0,PPV 18:
+http://bestever.vodiptv.org:83/17152823/76470223/379635
+#EXTINF:0,PPV 19:
+http://bestever.vodiptv.org:83/17152823/76470223/379636
+#EXTINF:0,PPV 20:
+http://bestever.vodiptv.org:83/17152823/76470223/379637
+#EXTINF:0,PPV 21:               
+http://bestever.vodiptv.org:83/17152823/76470223/380138
+#EXTINF:0,PPV 22:             
+http://bestever.vodiptv.org:83/17152823/76470223/380139
+#EXTINF:0,PPV 23:         
+http://bestever.vodiptv.org:83/17152823/76470223/380140
+#EXTINF:0,PPV 24: 
+http://bestever.vodiptv.org:83/17152823/76470223/380141
+#EXTINF:0,PPV 25: UFC Fight Pass: 
+http://bestever.vodiptv.org:83/17152823/76470223/380142
+
