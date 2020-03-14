@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0,TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8
+#EXTINF:0,TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8
+#EXTINF:0,Three
+https://i.mjh.nz/nz/tv.11.m3u8
+#EXTINF:0,PRIME
+https://i.mjh.nz/nz/tv.28.m3u8
 #EXTINF:0,Fox Sport 501(1 of these should have the league)
 http://bestever.vodiptv.org:83/17152823/76470223/381399
 #EXTINF:0,Fox Sport 502
