@@ -1,5 +1,63 @@
 #EXTM3U
-#EXTINF:0,BBC 1
-http://bestever.vodiptv.org:83/08109135/35167295/374075
+#EXTINF:0,VIP FHD Sky Cinema Comedy
+http://bestever.vodiptv.org:83/08109135/35167295/303839
 #EXTINF:0,Sky Cinema Action & Adventure
 http://bestever.vodiptv.org:83/08109135/35167295/303841
+#EXTINF:0,VIP FHD Sky Cinema Disney
+http://bestever.vodiptv.org:83/08109135/35167295/303837
+#EXTINF:0,VIP FHD Sky Cinema Drama
+http://bestever.vodiptv.org:83/08109135/35167295/303840
+#EXTINF:0,VIP FHD Sky Cinema Family
+http://bestever.vodiptv.org:83/08109135/35167295/303836
+#EXTINF:0,VIP FHD Sky Cinema Hits 
+http://bestever.vodiptv.org:83/08109135/35167295/303834
+#EXTINF:0,VIP FHD Sky Cinema Premier
+http://bestever.vodiptv.org:83/08109135/35167295/303833
+#EXTINF:0,VIP FHD Sky Cinema SciFi & Horror
+http://bestever.vodiptv.org:83/08109135/35167295/303832
+#EXTINF:0,VIP FHD Sky Cinema Select
+http://bestever.vodiptv.org:83/08109135/35167295/303831
+#EXTINF:0,VIP FHD Sky Cinema Thriller
+http://bestever.vodiptv.org:83/08109135/35167295/303838
+#EXTINF:0,VIP HD Sky Cinema Comedy
+http://bestever.vodiptv.org:83/08109135/35167295/303850
+#EXTINF:0,VIP HD Sky Cinema Drama
+http://bestever.vodiptv.org:83/08109135/35167295/303848
+#EXTINF:0,VIP HD Sky Cinema Family
+http://bestever.vodiptv.org:83/08109135/35167295/303847
+#EXTINF:0,VIP HD Sky Cinema Hits
+http://bestever.vodiptv.org:83/08109135/35167295/303845
+#EXTINF:0,VIP HD Sky Cinema Premiere
+http://bestever.vodiptv.org:83/08109135/35167295/303844
+#EXTINF:0,VIP HD Sky Cinema SciFI & Horror
+http://bestever.vodiptv.org:83/08109135/35167295/303843
+#EXTINF:0,VIP HD Sky Cinema Select
+http://bestever.vodiptv.org:83/08109135/35167295/303842
+#EXTINF:0,VIP HD Sky Cinema Superheroes
+http://bestever.vodiptv.org:83/08109135/35167295/303846
+#EXTINF:0,VIP HD Sky Cinema Thriller
+http://bestever.vodiptv.org:83/08109135/35167295/303849
+#EXTINF:0,VIP FHD UNIVERSAL
+http://bestever.vodiptv.org:83/08109135/35167295/374214
+#EXTINF:0,VIP FHD SKY WITNESS
+http://bestever.vodiptv.org:83/08109135/35167295/374125
+#EXTINF:0,VIP SD Sky Cinema Action
+http://bestever.vodiptv.org:83/08109135/35167295/304159
+#EXTINF:0,VIP SD Sky Cinema Comedy
+http://bestever.vodiptv.org:83/08109135/35167295/304158
+#EXTINF:0,VIP SD Sky Cinema Disney
+http://bestever.vodiptv.org:83/08109135/35167295/304004
+#EXTINF:0,VIP SD Sky Cinema Drama
+http://bestever.vodiptv.org:83/08109135/35167295/304157
+#EXTINF:0,VIP SD Sky Cinema Family
+http://bestever.vodiptv.org:83/08109135/35167295/304156
+#EXTINF:0,VIP SD Sky Cinema Premier 1 (vm)
+http://bestever.vodiptv.org:83/08109135/35167295/303971
+#EXTINF:0,VIP SD Sky Cinema Premier
+http://bestever.vodiptv.org:83/08109135/35167295/304154
+#EXTINF:0,VIP SD Sky Cinema SciFI
+http://bestever.vodiptv.org:83/08109135/35167295/304153
+#EXTINF:0,VIP SD Sky Cinema Select
+http://bestever.vodiptv.org:83/08109135/35167295/304152
+#EXTINF:0,VIP SD Sky Cinema Thriller
+http://bestever.vodiptv.org:83/08109135/35167295/304151
