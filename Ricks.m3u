@@ -1,13 +1,63 @@
 #EXTM3U
-#EXTINF:0,TVNZ 1 (Hello Rik and Julie)
-https://i.mjh.nz/nz/tv.9.m3u8
-#EXTINF:0,TVNZ 2
-https://i.mjh.nz/nz/tv.10.m3u8
-#EXTINF:0,Three
-https://i.mjh.nz/nz/tv.11.m3u8
-#EXTINF:0,Bravo
-https://i.mjh.nz/nz/tv.12.m3u8
-#EXTINF:0,Māori Television
-https://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:0,PRIME
-https://i.mjh.nz/nz/tv.28.m3u8
+#EXTINF:0,VIP FHD HISTORY
+http://bestever.vodiptv.org:83/37898322/77081405/374189
+#EXTINF:0,VIP SD History
+http://bestever.vodiptv.org:83/37898322/77081405/304165
+#EXTINF:0,VIP FHD HISTORY 2
+http://bestever.vodiptv.org:83/37898322/77081405/374102
+#EXTINF:0,VIP HD HISTORY CHANNEL
+http://bestever.vodiptv.org:83/37898322/77081405/308869
+#EXTINF:0,VIP FHD HISTORY CHANNEL
+http://bestever.vodiptv.org:83/37898322/77081405/308868
+#EXTINF:0,UK Discovery History
+http://bestever.vodiptv.org:83/37898322/77081405/21132
+#EXTINF:0,UK History
+http://bestever.vodiptv.org:83/37898322/77081405/254860
+#EXTINF:0,UK History 2
+http://bestever.vodiptv.org:83/37898322/77081405/21130
+#EXTINF:0,UK National Geographic
+http://bestever.vodiptv.org:83/37898322/77081405/143892
+#EXTINF:0,UK Nat Geo Wild
+http://bestever.vodiptv.org:83/37898322/77081405/21123
+#EXTINF:0,UK  Travel Channel
+http://bestever.vodiptv.org:83/37898322/77081405/263044
+#EXTINF:0,UK Investigation Discovery
+http://bestever.vodiptv.org:83/37898322/77081405/255287
+#EXTINF:0,VIP FHD INVESTIGATION DISCOVERY
+http://bestever.vodiptv.org:83/37898322/77081405/308864
+#EXTINF:0,VIP HD INVESTIGATION DISCOVERY
+http://bestever.vodiptv.org:83/37898322/77081405/308863
+#EXTINF:0,VIP SD Home & Health
+http://bestever.vodiptv.org:83/37898322/77081405/304056
+#EXTINF:0,VIP SD Home
+http://bestever.vodiptv.org:83/37898322/77081405/304057
+#EXTINF:0,VIP SD Horse & Country
+http://bestever.vodiptv.org:83/37898322/77081405/304054
+#EXTINF:0,UK Lifetime
+http://bestever.vodiptv.org:83/37898322/77081405/21058
+#EXTINF:0,UK Lifetime HD
+http://bestever.vodiptv.org:83/37898322/77081405/142786
+#EXTINF:0,VIP FHD LIFETIME
+http://bestever.vodiptv.org:83/37898322/77081405/374111
+#EXTINF:0,VIP FHD LIFETIME
+http://bestever.vodiptv.org:83/37898322/77081405/374194
+#EXTINF:0,VIP FHD LOVE NATURE
+http://bestever.vodiptv.org:83/37898322/77081405/374196
+#EXTINF:0,VIP FHD LOVE NATURE
+http://bestever.vodiptv.org:83/37898322/77081405/374210
+#EXTINF:0,UK Gold HD
+http://bestever.vodiptv.org:83/37898322/77081405/21070
+#EXTINF:0,UK Gold SD
+http://bestever.vodiptv.org:83/37898322/77081405/327637
+#EXTINF:0,Discovery Channel HD
+http://bestever.vodiptv.org:83/37898322/77081405/142642
+#EXTINF:0,Discovery Channel SD
+http://bestever.vodiptv.org:83/37898322/77081405/168737
+#EXTINF:0,Discovery ID
+http://bestever.vodiptv.org:83/37898322/77081405/142643
+#EXTINF:0,Discovery Life
+http://bestever.vodiptv.org:83/37898322/77081405/263032
+#EXTINF:0,Documentaries 4 u
+http://bestever.vodiptv.org:83/37898322/77081405/354479
+#EXTINF:0,Docurama
+http://bestever.vodiptv.org:83/37898322/77081405/354976
