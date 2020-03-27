@@ -7,171 +7,264 @@ https://i.mjh.nz/nz/tv.10.m3u8
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0,PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
-#EXTINF:0,UK Sky Action FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378441
-#EXTINF:0,UK Sky Action HD
-http://bestever.vodiptv.org:83/17152823/76470223/378442
-#EXTINF:0,UK Sky Action SD
-http://bestever.vodiptv.org:83/17152823/76470223/378443
-#EXTINF:0,UK Sky Comedy HD
-http://bestever.vodiptv.org:83/17152823/76470223/378444
-#EXTINF:0,UK Sky Comedy SD
-http://bestever.vodiptv.org:83/17152823/76470223/378445
-#EXTINF:0,UK Sky Disney FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378448
-#EXTINF:0,UK Sky Disney HD
-http://bestever.vodiptv.org:83/17152823/76470223/378450
-#EXTINF:0,UK Sky Disney SD
-http://bestever.vodiptv.org:83/17152823/76470223/378451
-#EXTINF:0,UK Sky Drama FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378452
-#EXTINF:0,UK Sky Drama HD
-http://bestever.vodiptv.org:83/17152823/76470223/378453
-#EXTINF:0,UK Sky Drama SD
-http://bestever.vodiptv.org:83/17152823/76470223/378454
-#EXTINF:0,UK Sky Family FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378455
-#EXTINF:0,UK Sky Family HD
-http://bestever.vodiptv.org:83/17152823/76470223/378456
-#EXTINF:0,UK Sky Family SD
-http://bestever.vodiptv.org:83/17152823/76470223/378457
-#EXTINF:0,UK Sky Greats FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378458
-#EXTINF:0,UK Sky Greats HD
-http://bestever.vodiptv.org:83/17152823/76470223/378459
-#EXTINF:0,UK Sky Greats SD
-http://bestever.vodiptv.org:83/17152823/76470223/378460
-#EXTINF:0,UK Sky Hits FHD
-http://bestever.vodiptv.org:83/17152823/76470223/378461
-#EXTINF:0,UK Sky Hits SD
-http://bestever.vodiptv.org:83/17152823/76470223/378462
-#EXTINF:0,VIP SD Sky Cinema Action
-http://bestever.vodiptv.org:83/17152823/76470223/304159
-#EXTINF:0,VIP SD Sky Cinema Comedy
+#EXTM3U
+#EXTINF:0, group-title="Sky Entertainment",VIP FHD HISTORY
+http://bestever.vodiptv.org:83/17152823/76470223/374189
+#EXTINF:0, group-title="Sky Entertainment"VIP SD History
+http://bestever.vodiptv.org:83/17152823/76470223/304165
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD HISTORY 2
+http://bestever.vodiptv.org:83/17152823/76470223/374102
+#EXTINF:0, group-title="Sky Entertainment"VIP HD HISTORY CHANNEL
+http://bestever.vodiptv.org:83/17152823/76470223/308869
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD HISTORY CHANNEL
+http://bestever.vodiptv.org:83/17152823/76470223/308868
+#EXTINF:0, group-title="Sky Entertainment"UK Discovery History
+http://bestever.vodiptv.org:83/17152823/76470223/21132
+#EXTINF:0, group-title="Sky Entertainment"UK History
+http://bestever.vodiptv.org:83/17152823/76470223/254860
+#EXTINF:0, group-title="Sky Entertainment"UK History 2
+http://bestever.vodiptv.org:83/17152823/76470223/21130
+#EXTINF:0, group-title="Sky Entertainment"UK National Geographic
+http://bestever.vodiptv.org:83/17152823/76470223/143892
+#EXTINF:0, group-title="Sky Entertainment"UK Nat Geo Wild
+http://bestever.vodiptv.org:83/17152823/76470223/21123
+#EXTINF:0, group-title="Sky Entertainment"UK  Travel Channel
+http://bestever.vodiptv.org:83/17152823/76470223/263044
+#EXTINF:0, group-title="Sky Entertainment"UK Investigation Discovery
+http://bestever.vodiptv.org:83/17152823/76470223/255287
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD INVESTIGATION DISCOVERY
+http://bestever.vodiptv.org:83/17152823/76470223/308864
+#EXTINF:0, group-title="Sky Entertainment"VIP HD INVESTIGATION DISCOVERY
+http://bestever.vodiptv.org:83/17152823/76470223/308863
+#EXTINF:0, group-title="Sky Entertainment"VIP SD Home & Health
+http://bestever.vodiptv.org:83/17152823/76470223/304056
+#EXTINF:0, group-title="Sky Entertainment"VIP SD Home
+http://bestever.vodiptv.org:83/17152823/76470223/304057
+#EXTINF:0, group-title="Sky Entertainment"VIP SD Horse & Country
+http://bestever.vodiptv.org:83/17152823/76470223/304054
+#EXTINF:0, group-title="Sky Entertainment"UK Lifetime
+http://bestever.vodiptv.org:83/17152823/76470223/21058
+#EXTINF:0, group-title="Sky Entertainment"UK Lifetime HD
+http://bestever.vodiptv.org:83/17152823/76470223/142786
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD LIFETIME
+http://bestever.vodiptv.org:83/17152823/76470223/374111
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD LIFETIME
+http://bestever.vodiptv.org:83/17152823/76470223/374194
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD LOVE NATURE
+http://bestever.vodiptv.org:83/17152823/76470223/374196
+#EXTINF:0, group-title="Sky Entertainment"VIP FHD LOVE NATURE
+http://bestever.vodiptv.org:83/17152823/76470223/374210
+#EXTINF:0, group-title="Sky Entertainment"UK Gold HD
+http://bestever.vodiptv.org:83/17152823/76470223/21070
+#EXTINF:0, group-title="Sky Entertainment"UK Gold SD
+http://bestever.vodiptv.org:83/17152823/76470223/327637
+#EXTINF:0, group-title="Sky Entertainment"Discovery Channel HD
+http://bestever.vodiptv.org:83/17152823/76470223/142642
+#EXTINF:0, group-title="Sky Entertainment"Discovery Channel SD
+http://bestever.vodiptv.org:83/17152823/76470223/168737
+#EXTINF:0, group-title="Sky Entertainment"Discovery ID
+http://bestever.vodiptv.org:83/17152823/76470223/142643
+#EXTINF:0, group-title="Sky Entertainment"Discovery Life
+http://bestever.vodiptv.org:83/17152823/76470223/263032
+#EXTINF:0, group-title="Sky Entertainment"Documentaries 4 u
+http://bestever.vodiptv.org:83/17152823/76470223/354479
+#EXTINF:0, group-title="Sky Entertainment"Docurama
+http://bestever.vodiptv.org:83/17152823/76470223/354976
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Comedy
+http://bestever.vodiptv.org:83/17152823/76470223/303839
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Comedy
 http://bestever.vodiptv.org:83/17152823/76470223/304158
-#EXTINF:0,VIP SD Sky Cinema Disney
-http://bestever.vodiptv.org:83/17152823/76470223/304004
-#EXTINF:0,VIP SD Sky Cinema Drama
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Comedy
+http://bestever.vodiptv.org:83/17152823/76470223/303850
+#EXTINF:0, group-title="Movie Channels",Sky Cinema Action & Adventure
+http://bestever.vodiptv.org:83/17152823/76470223/303841
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Action
+http://bestever.vodiptv.org:83/17152823/76470223/304159
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Drama
+http://bestever.vodiptv.org:83/17152823/76470223/303848
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Drama
+http://bestever.vodiptv.org:83/17152823/76470223/303840
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Drama
 http://bestever.vodiptv.org:83/17152823/76470223/304157
-#EXTINF:0,VIP SD Sky Cinema Family
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Disney
+http://bestever.vodiptv.org:83/17152823/76470223/303837
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Disney
+http://bestever.vodiptv.org:83/17152823/76470223/304004
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Family
+http://bestever.vodiptv.org:83/17152823/76470223/303836
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Family
+http://bestever.vodiptv.org:83/17152823/76470223/303847
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Family
 http://bestever.vodiptv.org:83/17152823/76470223/304156
-#EXTINF:0,VIP SD Sky Cinema Premier 1 (vm)
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Hits 
+http://bestever.vodiptv.org:83/17152823/76470223/303834
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Hits
+http://bestever.vodiptv.org:83/17152823/76470223/303845
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Premier
+http://bestever.vodiptv.org:83/17152823/76470223/303833
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Premiere
+http://bestever.vodiptv.org:83/17152823/76470223/303844
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Premier 1 (vm)
 http://bestever.vodiptv.org:83/17152823/76470223/303971
-#EXTINF:0,VIP SD Sky Cinema Premier
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Premier
 http://bestever.vodiptv.org:83/17152823/76470223/304154
-#EXTINF:0,VIP SD Sky Cinema SciFI
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema SciFI & Horror
+http://bestever.vodiptv.org:83/17152823/76470223/303843
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema SciFi & Horror
+http://bestever.vodiptv.org:83/17152823/76470223/303832
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema SciFI
 http://bestever.vodiptv.org:83/17152823/76470223/304153
-#EXTINF:0,VIP SD Sky Cinema Select
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Select
+http://bestever.vodiptv.org:83/17152823/76470223/303831
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Select
+http://bestever.vodiptv.org:83/17152823/76470223/303842
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Select
 http://bestever.vodiptv.org:83/17152823/76470223/304152
-#EXTINF:0,VIP SD Sky Cinema Thriller
+#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Thriller
+http://bestever.vodiptv.org:83/17152823/76470223/303838
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Thriller
+http://bestever.vodiptv.org:83/17152823/76470223/303849
+#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Thriller
 http://bestever.vodiptv.org:83/17152823/76470223/304151
-#EXTINF:0,VIP SD Sky Witness
-http://bestever.vodiptv.org:83/17152823/76470223/304150
-#EXTINF:0,Fox Sport 501(1 of these should have the league)
-http://bestever.vodiptv.org:83/17152823/76470223/381399
-#EXTINF:0,Fox Sport 502 (Probably this one, scroll down for more options)
-http://bestever.vodiptv.org:83/17152823/76470223/381400
-#EXTINF:0,Fox Sport 503
-http://bestever.vodiptv.org:83/17152823/76470223/381401
-#EXTINF:0,Fox Sport 504
-http://bestever.vodiptv.org:83/17152823/76470223/381402
-#EXTINF:0,Fox Sport 505
-http://bestever.vodiptv.org:83/17152823/76470223/381403
-#EXTINF:0,Fox Sport 506
-http://bestever.vodiptv.org:83/17152823/76470223/381404
-#EXTINF:0,Fox Sport 507
-http://bestever.vodiptv.org:83/17152823/76470223/381405
-#EXTINF:0,UK BT SPORTS 1 FHD
-http://bestever.vodiptv.org:83/17152823/76470223/309255
-#EXTINF:0,UK BT SPORTS 1 HD
-http://bestever.vodiptv.org:83/17152823/76470223/309257
-#EXTINF:0,UK BT SPORTS 3 HD
-http://bestever.vodiptv.org:83/17152823/76470223/309256
-#EXTINF:0,UK BT SPORTS 3 SD
-http://bestever.vodiptv.org:83/17152823/76470223/309254
-#EXTINF:0,UK BT SPORTS ESPN FHD
-http://bestever.vodiptv.org:83/17152823/76470223/362255
-#EXTINF:0,UK BT SPORTS ESPN HD
-http://bestever.vodiptv.org:83/17152823/76470223/262998
-#EXTINF:0,BT SPORTS 2 SD
-http://bestever.vodiptv.org:83/17152823/76470223/382155
-#EXTINF:0,BT SPORTS 2 FHD
-http://bestever.vodiptv.org:83/17152823/76470223/382158
-#EXTINF:0,VIP SD BT Sports 1
-http://bestever.vodiptv.org:83/17152823/76470223/304101
-#EXTINF:0,VIP SD BT Sports 2
-http://bestever.vodiptv.org:83/17152823/76470223/304100
-#EXTINF:0,VIP SD BT Sports 3
-http://bestever.vodiptv.org:83/17152823/76470223/304099
-#EXTINF:0,VIP SD BT Sports ESPN
-http://bestever.vodiptv.org:83/17152823/76470223/304098
-#EXTINF:0,VIP FHD SKY SPORTS ACTION
-http://bestever.vodiptv.org:83/17152823/76470223/382169
-#EXTINF:0,VIP FHD SKY SPORTS ARENA
-http://bestever.vodiptv.org:83/17152823/76470223/382168
-#EXTINF:0,VIP FHD SKY SPORTS CRICKET 
-http://bestever.vodiptv.org:83/17152823/76470223/382167
-#EXTINF:0,VIP FHD SKY SPORTS F1
-http://bestever.vodiptv.org:83/17152823/76470223/382166
-#EXTINF:0,VIP FHD SKY SPORTS FOOTBALL
-http://bestever.vodiptv.org:83/17152823/76470223/382165
-#EXTINF:0,VIP FHD SKY SPORTS GOLF
-http://bestever.vodiptv.org:83/17152823/76470223/382164
-#EXTINF:0,VIP FHD Sky Sports Main Event
-http://bestever.vodiptv.org:83/17152823/76470223/309260
-#EXTINF:0,VIP FHD SKY SPORTS MIX 
-http://bestever.vodiptv.org:83/17152823/76470223/382171
-#EXTINF:0,VIP FHD SKY SPORTS NEWS
-http://bestever.vodiptv.org:83/17152823/76470223/382170
-#EXTINF:0,VIP FHD SKY SPORTS PREMIER LEAGUE
-http://bestever.vodiptv.org:83/17152823/76470223/382163
-#EXTINF:0,VIP HD SKY SPORTS FOOTBALL
-http://bestever.vodiptv.org:83/17152823/76470223/382176
-#EXTINF:0,VIP HD SKY SPORTS GOLF
-http://bestever.vodiptv.org:83/17152823/76470223/382175
-#EXTINF:0,VIP HD Sky Sports Main Event
-http://bestever.vodiptv.org:83/17152823/76470223/309259
-#EXTINF:0,VIP HD SKY SPORTS MIX
-http://bestever.vodiptv.org:83/17152823/76470223/382172
-#EXTINF:0,VIP HD SKY SPORTS PREMIER LEAGUE
-http://bestever.vodiptv.org:83/17152823/76470223/382174
-#EXTINF:0,VIP HD Sky Sports Racing
-http://bestever.vodiptv.org:83/17152823/76470223/363773
-#EXTINF:0,VIP HD SKY SPORTS F1
-http://bestever.vodiptv.org:83/17152823/76470223/382177
-#EXTINF:0,VIP HD SKY SPORTS CRICKET
-http://bestever.vodiptv.org:83/17152823/76470223/382178
-#EXTINF:0,VIP HD SKY SPORTS ARENA
-http://bestever.vodiptv.org:83/17152823/76470223/382179
-#EXTINF:0,VIP HD SKY SPORTS ACTION
+#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Superheroes
+http://bestever.vodiptv.org:83/17152823/76470223/303846
+#EXTINF:0, group-title="Movie Channels",VIP FHD UNIVERSAL
+http://bestever.vodiptv.org:83/17152823/76470223/374214
+#EXTINF:0, group-title="Movie Channels",VIP FHD SKY WITNESS
+http://bestever.vodiptv.org:83/17152823/76470223/374125
+#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX EAST
+http://bestever.vodiptv.org:83/17152823/76470223/308942
+#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX ACTION MAX EAST
+http://bestever.vodiptv.org:83/17152823/76470223/308943
+#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAXX MORE MAXX
+http://bestever.vodiptv.org:83/17152823/76470223/308939
+#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX OUTERMAX
+http://bestever.vodiptv.org:83/17152823/76470223/308941
+#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX THRILLERMAX
+http://bestever.vodiptv.org:83/17152823/76470223/308940
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Action
+http://bestever.vodiptv.org:83/17152823/76470223/366649
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Action FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366924
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS ACTION
 http://bestever.vodiptv.org:83/17152823/76470223/382180
-#EXTINF:0,VIP HD SKY SPORTS NEWS 
-http://bestever.vodiptv.org:83/17152823/76470223/382181
-#EXTINF:0,UK Sky Sports Golf
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Arena FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366923
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS ARENA
+http://bestever.vodiptv.org:83/17152823/76470223/382179
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS CRICKET 
+http://bestever.vodiptv.org:83/17152823/76470223/382167
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS CRICKET
+http://bestever.vodiptv.org:83/17152823/76470223/382178
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Cricket
+http://bestever.vodiptv.org:83/17152823/76470223/366648
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Cricket FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366922
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS GOLF
+http://bestever.vodiptv.org:83/17152823/76470223/382175
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS GOLF
+http://bestever.vodiptv.org:83/17152823/76470223/382164
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Golf
 http://bestever.vodiptv.org:83/17152823/76470223/366645
-#EXTINF:0,UK Sky Sports Golf FHD
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Golf FHD
 http://bestever.vodiptv.org:83/17152823/76470223/366919
-#EXTINF:0,VIP HD GOLF CHANNEL
-http://bestever.vodiptv.org:83/17152823/76470223/308883
-#EXTINF:0,VIP HD NBC GOLF
-http://bestever.vodiptv.org:83/17152823/76470223/308839
-#EXTINF:0, NRL  24/7 (try one of these as Tony)
-http://bestever.vodiptv.org:83/17152823/76470223/303199
-#EXTINF:0, NRL LIVE 1
-http://bestever.vodiptv.org:83/17152823/76470223/340769
-#EXTINF:0, NRL LIVE 2
-http://bestever.vodiptv.org:83/17152823/76470223/340768
-#EXTINF:0, NRL LIVE 3
-http://bestever.vodiptv.org:83/17152823/76470223/340767
-#EXTINF:0, NRL LIVE 4
-http://bestever.vodiptv.org:83/17152823/76470223/340766
-#EXTINF:0, NRL LIVE 5
-http://bestever.vodiptv.org:83/17152823/76470223/340765
-#EXTINF:0, NRL LIVE 6
-http://bestever.vodiptv.org:83/17152823/76470223/340764
-#EXTINF:0, NRL LIVE 7
-http://bestever.vodiptv.org:83/17152823/76470223/340763
-#EXTINF:0, NRL LIVE 8
-http://bestever.vodiptv.org:83/17152823/76470223/340762
-#EXTINF:0, NRL LIVE 9
-http://bestever.vodiptv.org:83/17152823/76470223/340761
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS F1
+http://bestever.vodiptv.org:83/17152823/76470223/382166
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS F1
+http://bestever.vodiptv.org:83/17152823/76470223/382177
+#EXTINF:0, group-title="UK Sports",UK Sky Sports F1
+http://bestever.vodiptv.org:83/17152823/76470223/366646
+#EXTINF:0, group-title="UK Sports",UK Sky Sports F1 FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366921
+#EXTINF:0, group-title="UK Sports",VIP FHD Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/309260
+#EXTINF:0, group-title="UK Sports",VIP HD Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/309259
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/366652
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Main Events FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366918
+#EXTINF:0, group-title="UK Sports",VIP SD Sky Sports Main Event
+http://bestever.vodiptv.org:83/17152823/76470223/309262
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS MIX 
+http://bestever.vodiptv.org:83/17152823/76470223/382171
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS MIX
+http://bestever.vodiptv.org:83/17152823/76470223/382172
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Mix
+http://bestever.vodiptv.org:83/17152823/76470223/366647
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Mix FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366917
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS FOOTBALL
+http://bestever.vodiptv.org:83/17152823/76470223/382165
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS FOOTBALL
+http://bestever.vodiptv.org:83/17152823/76470223/382176
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Football
+http://bestever.vodiptv.org:83/17152823/76470223/366650
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Football FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366920
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS NEWS
+http://bestever.vodiptv.org:83/17152823/76470223/382170
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS NEWS 
+http://bestever.vodiptv.org:83/17152823/76470223/382181
+#EXTINF:0, group-title="UK Sports",UK Sky Sports News FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366916
+#EXTINF:0, group-title="UK Sports",VIP SD Sky Sports News
+http://bestever.vodiptv.org:83/17152823/76470223/309261
+#EXTINF:0, group-title="UK Sports",VIP FHD SKY SPORTS PREMIER LEAGUE
+http://bestever.vodiptv.org:83/17152823/76470223/382163
+#EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS PREMIER LEAGUE
+http://bestever.vodiptv.org:83/17152823/76470223/382174
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Premier League
+http://bestever.vodiptv.org:83/17152823/76470223/366651
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Premier League FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366915
+#EXTINF:0, group-title="UK Sports",VIP FHD Sky Sports Racing
+http://bestever.vodiptv.org:83/17152823/76470223/331503
+#EXTINF:0, group-title="UK Sports",VIP HD Sky Sports Racing
+http://bestever.vodiptv.org:83/17152823/76470223/363773
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Racing
+http://bestever.vodiptv.org:83/17152823/76470223/379456
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Racing FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366914
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Racing
+http://bestever.vodiptv.org:83/17152823/76470223/379456
+#EXTINF:0, group-title="UK Sports",UK Sky Sports Racing FHD
+http://bestever.vodiptv.org:83/17152823/76470223/366914
+#EXTINF:0, group-title="UK Sports",VIP HD BT SPORTS 1 
+http://bestever.vodiptv.org:83/17152823/76470223/382160
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS 1 FHD
+http://bestever.vodiptv.org:83/17152823/76470223/309255
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS 1 HD
+http://bestever.vodiptv.org:83/17152823/76470223/309257
+#EXTINF:0, group-title="UK Sports",VIP HD BT SPORTS 2
+http://bestever.vodiptv.org:83/17152823/76470223/382156
+#EXTINF:0, group-title="UK Sports",BT SPORTS 2 SD
+http://bestever.vodiptv.org:83/17152823/76470223/382155
+#EXTINF:0, group-title="UK Sports",BT SPORTS 2 FHD
+http://bestever.vodiptv.org:83/17152823/76470223/382158
+#EXTINF:0, group-title="UK Sports",BT SPORT 2 HD
+http://bestever.vodiptv.org:83/17152823/76470223/382159
+#EXTINF:0, group-title="UK Sports",VIP HD BT SPORTS 3 
+http://bestever.vodiptv.org:83/17152823/76470223/382162
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS 3 HD
+http://bestever.vodiptv.org:83/17152823/76470223/309256
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS 3 SD
+http://bestever.vodiptv.org:83/17152823/76470223/309254
+#EXTINF:0, group-title="UK Sports",VIP HD BT Sports ESPN
+http://bestever.vodiptv.org:83/17152823/76470223/303852
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS ESPN FHD
+http://bestever.vodiptv.org:83/17152823/76470223/362255
+#EXTINF:0, group-title="UK Sports",UK BT SPORTS ESPN HD
+http://bestever.vodiptv.org:83/17152823/76470223/262998
+#EXTINF:0, group-title="UK Sports",UK Eurosport 1 HD
+http://bestever.vodiptv.org:83/17152823/76470223/262879
+#EXTINF:0, group-title="UK Sports",UK Eurosport 1 SD
+http://bestever.vodiptv.org:83/17152823/76470223/331881
+#EXTINF:0, group-title="UK Sports",UK Eurosport 2 HD
+http://bestever.vodiptv.org:83/17152823/76470223/262880
+#EXTINF:0, group-title="UK Sports",UK Eurosport 2 SD
+http://bestever.vodiptv.org:83/17152823/76470223/331880
+#EXTINF:0, group-title="UK Sports",UK Boxnation
+http://bestever.vodiptv.org:83/17152823/76470223/381373
+#EXTINF:0, group-title="UK Sports",VIP FHD BOXNATION
+http://bestever.vodiptv.org:83/17152823/76470223/374165
