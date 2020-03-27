@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,TVNZ 1, group-title="News"
+#EXTINF:0, group-title="News", TVNZ 1
 https://i.mjh.nz/nz/tv.9.m3u8
-#EXTINF:0,TVNZ 2, group-title="News"
+#EXTINF:0, group-title="News", TVNZ 2
 https://i.mjh.nz/nz/tv.10.m3u8
 #EXTINF:0,Three
 https://i.mjh.nz/nz/tv.11.m3u8
