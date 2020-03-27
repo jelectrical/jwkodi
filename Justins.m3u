@@ -1,2 +1,47 @@
 #EXTM3U
-#EXTINF:0,VIP FHD BT SPORTS 2
+#EXTINF:0,TVNZ 1, group-title="News"
+https://i.mjh.nz/nz/tv.9.m3u8
+#EXTINF:0,TVNZ 2, group-title="News"
+https://i.mjh.nz/nz/tv.10.m3u8
+#EXTINF:0,Three
+https://i.mjh.nz/nz/tv.11.m3u8
+#EXTINF:0,Bravo
+https://i.mjh.nz/nz/tv.12.m3u8
+#EXTINF:0,Māori Television
+https://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:0,PRIME
+https://i.mjh.nz/nz/tv.28.m3u8
+#EXTINF:0,ThreeLife
+https://i.mjh.nz/nz/tv.65.m3u8
+#EXTINF:0,Choice TV
+https://i.mjh.nz/nz/tv.37.m3u8
+#EXTINF:0,DUKE
+https://i.mjh.nz/nz/tv.55.m3u8
+#EXTINF:0,Te Reo
+https://i.mjh.nz/nz/tv.20.m3u8
+#EXTINF:0,Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:0,HGTV
+https://i.mjh.nz/nz/tv.58.m3u8
+#EXTINF:0,TVSN Shopping
+https://i.mjh.nz/nz/tv.45.m3u8
+#EXTINF:0,Shine TV
+https://i.mjh.nz/nz/tv.7.m3u8
+#EXTINF:0,Firstlight
+https://i.mjh.nz/nz/tv.39.m3u8
+#EXTINF:0,Chinese TV28
+https://i.mjh.nz/nz/tv.21.m3u8
+#EXTINF:0,Chinese TV29
+https://i.mjh.nz/nz/tv.36.m3u8
+#EXTINF:0,Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:0,APNA Television
+https://i.mjh.nz/nz/tv.49.m3u8
+#EXTINF:0,Panda TV
+https://i.mjh.nz/nz/tv.63.m3u8
+#EXTINF:0,Wairarapa TV
+https://i.mjh.nz/nz/tv.60.m3u8
+#EXTINF:0,The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+#EXTINF:0,Redbull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
