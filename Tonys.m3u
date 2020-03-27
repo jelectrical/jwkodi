@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,TVNZ 1
+#EXTINF:0, group-title="NZ TV",TVNZ 1
 https://i.mjh.nz/nz/tv.9.m3u8
-#EXTINF:0,TVNZ 2
+#EXTINF:0, group-title="NZ TV",TVNZ 2
 https://i.mjh.nz/nz/tv.10.m3u8
-#EXTINF:0,Three
+#EXTINF:0, group-title="NZ TV",Three
 https://i.mjh.nz/nz/tv.11.m3u8
-#EXTINF:0,PRIME
+#EXTINF:0, group-title="NZ TV",PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
 #EXTM3U
 #EXTINF:0, group-title="Sky Entertainment",VIP FHD HISTORY
