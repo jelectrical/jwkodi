@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:0, group-title="NZ TV" - TVNZ 1
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/nz/tv.9.m3u8
 #EXTINF:0, group-title="NZ TV" - TVNZ 2
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/nz/tv.10.m3u8
 #EXTINF:0, group-title="NZ TV" - Three
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0, group-title="NZ TV" - PRIME
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/nz/tv.28.m3u8
 #EXTINF:0,SKY ARTS
 http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/2408
