@@ -7,32 +7,3 @@ https://i.mjh.nz/nz/tv.10.m3u8
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0, group-title="NZ TV",PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
-#EXTINF:-1 tvg-ID="abcwabc.us" tvg-name="ABC EAST" tvg-logo="http://primestreamstv.com/logos/ABC.png" group-title="NETWORK TV",ABC EAST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/38699
-#EXTINF:-1 tvg-ID="cbswcbs.us" tvg-name="CBS EAST" tvg-logo="http://primestreamstv.com/logos/CBS.png" group-title="NETWORK TV",CBS EAST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/36594
-#EXTINF:-1 tvg-ID="nbcwkyc.us" tvg-name="NBC EAST" tvg-logo="http://primestreamstv.com/logos/NBC.png" group-title="NETWORK TV",NBC EAST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/36592
-#EXTINF:-1 tvg-ID="fox25wfxt.us" tvg-name="FOX EAST" tvg-logo="http://primestreamstv.com/logos/FOX.png" group-title="NETWORK TV",FOX EAST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/36593
-#EXTINF:-1 tvg-ID="abc7kabctv.us" tvg-name="ABC WEST" tvg-logo="http://primestreamstv.com/logos/ABC.png" group-title="NETWORK TV",ABC WEST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/34340
-#EXTINF:-1 tvg-ID="nbc4knbc.us" tvg-name="NBC WEST" tvg-logo="http://primestreamstv.com/logos/NBC.png" group-title="NETWORK TV",NBC WEST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31643
-#EXTINF:-1 tvg-ID="cbskcbs.us" tvg-name="CBS WEST" tvg-logo="http://primestreamstv.com/logos/CBS.png" group-title="NETWORK TV",CBS WEST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31644
-#EXTINF:-1 tvg-ID="foxktxl.us" tvg-name="FOX WEST" tvg-logo="http://primestreamstv.com/logos/FOX.png" group-title="NETWORK TV",FOX WEST
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31645
-#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN (East Server)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (East Server)
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1262
-#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN (West Server)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (West Server)
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/86502
-#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN Backup" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN Backup
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1709
-#EXTINF:-1 tvg-ID="espn2.us" tvg-name="ESPN2 " tvg-logo="http://primestreamstv.com/logos/ESPN%202.png" group-title="SPORTS NETWORKS",ESPN2 
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95868
-#EXTINF:-1 tvg-ID="espnnews.us" tvg-name="ESPN NEWS" tvg-logo="http://primestreamstv.com/logos/ESPN%20NEWS.png" group-title="SPORTS NETWORKS",ESPN NEWS
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1275
-#EXTINF:-1 tvg-ID="espnu.us" tvg-name="ESPN U" tvg-logo="http://primestreamstv.com/logos/ESPN%20U.png" group-title="SPORTS NETWORKS",ESPN U
-http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1274
-#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="SPORTS NETWORKS",FOX SPORTS 1
