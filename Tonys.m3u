@@ -7,6 +7,8 @@ https://i.mjh.nz/nz/tv.10.m3u8
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0, group-title="NZ TV" - PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
+#EXTINF:0,CNN
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1347
 #EXTINF:0,SKY ARTS
 http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/2408
 #EXTINF:0,SKY CINEMA ACTION | VIP
