@@ -1,3 +1,51 @@
 #EXTM3U
 #EXTINF:0,Māori Television
 https://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:0,UK - SS Mix
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1328
+#EXTINF:0,UK - SSHD Action
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1331
+#EXTINF:0,UK - SSHD Arena
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/12408
+#EXTINF:0,UK - SSHD Cricket
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1332
+#EXTINF:0,UK - SSHD F1
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1402
+#EXTINF:0,UK - SSHD Football
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/12407
+#EXTINF:0,UK - SSHD Golf
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1330
+#EXTINF:0,UK - SSHD Main Event
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1400
+#EXTINF:0,UK - SSHD News
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1401
+#EXTINF:0,UK - SSHD Premier League
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/1399
+#EXTINF:0,US | ESPN 2 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15950
+#EXTINF:0,US | ESPN HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15951
+#EXTINF:0,US | NBC Sports Network
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/22499
+#EXTINF:0,US | NBC Sports Network HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15942
+#EXTINF:0,US | TSN 1 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15929
+#EXTINF:0,US | TSN 2 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15928
+#EXTINF:0,US | TSN 3 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15927
+#EXTINF:0,US | TSN 4 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15926
+#EXTINF:0,US | TSN 5 HD
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/15925
+#EXTINF:0,CA - TSN 1
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/40651
+#EXTINF:0,CA - TSN 2
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/40650
+#EXTINF:0,CA - TSN 3
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/40649
+#EXTINF:0,CA - TSN 4
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/40648
+#EXTINF:0,CA - TSN 5
+http://securetv.net:8080/vMqxnQ5x5k/7053514584/40647
