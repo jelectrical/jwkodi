@@ -7,7 +7,41 @@ https://i.mjh.nz/nz/tv.10.m3u8
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0, group-title="NZ TV" - PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
-#EXTINF:0, group-title="UK Sports",UK Sky Sports Action
+#EXTINF:0,UK - SS Mix
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1328
+#EXTINF:0,UK - SSHD Action
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1331
+#EXTINF:0,UK - SSHD Arena
+http://securetv.net:8080/f2tsvfVXTd/3678114133/12408
+#EXTINF:0,UK - SSHD Cricket
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1332
+#EXTINF:0,UK - SSHD F1
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1402
+#EXTINF:0,UK - SSHD Football
+http://securetv.net:8080/f2tsvfVXTd/3678114133/12407
+#EXTINF:0,UK - SSHD Golf
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1330
+#EXTINF:0,UK - SSHD Main Event
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1400
+#EXTINF:0,UK - SSHD News
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1401
+#EXTINF:0,UK - SSHD Premier League
+http://securetv.net:8080/f2tsvfVXTd/3678114133/1399
+#EXTINF:0,US | Golf HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15943
+#EXTINF:0,US | NBC Golf
+http://securetv.net:8080/f2tsvfVXTd/3678114133/22500
+#EXTINF:0,US | TSN 1 HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15929
+#EXTINF:0,US | TSN 2 HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15928
+#EXTINF:0,US | TSN 3 HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15927
+#EXTINF:0,US | TSN 4 HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15926
+#EXTINF:0,US | TSN 5 HD
+http://securetv.net:8080/f2tsvfVXTd/3678114133/15925
+#EXTINF:0,CA - TSN 1#EXTINF:0, group-title="UK Sports",UK Sky Sports Action
 http://bestever.vodiptv.org:83/08109135/35167295/366649
 #EXTINF:0, group-title="UK Sports",UK Sky Sports Action FHD
 http://bestever.vodiptv.org:83/08109135/35167295/366924
