@@ -7,8 +7,6 @@ https://i.mjh.nz/nz/tv.10.m3u8
 https://i.mjh.nz/nz/tv.11.m3u8
 #EXTINF:0, group-title="NZ TV" - PRIME
 https://i.mjh.nz/nz/tv.28.m3u8
-#EXTINF:0,CA - TSN 1#EXTINF:0, group-title="UK Sports",UK Sky Sports Action
-http://bestever.vodiptv.org:83/08109135/35167295/366649
 #EXTINF:0, group-title="UK Sports",UK Sky Sports Action FHD
 http://bestever.vodiptv.org:83/08109135/35167295/366924
 #EXTINF:0, group-title="UK Sports",VIP HD SKY SPORTS ACTION
