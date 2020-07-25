@@ -197,6 +197,31 @@ http://bestever.vodiptv.org:83/23546735/48790635/331880
 http://bestever.vodiptv.org:83/23546735/48790635/381373
 #EXTINF:0, group-title="UK Sports",VIP FHD BOXNATION
 http://bestever.vodiptv.org:83/23546735/48790635/374165
-
-
-
+#EXTINF:0, group-title="US Sports",NBC Golf
+http://104.218.61.161:83/directline76598/3524202035082435083524AM358352020/198
+#EXTINF:0, group-title="US Sports",NBC Sports Bay Area
+http://bestever.vodiptv.org:83/23546735/48790635/308838
+#EXTINF:0, group-title="US Sports",NBC Sports Boston
+http://bestever.vodiptv.org:83/23546735/48790635/308837
+#EXTINF:0, group-title="US Sports",NBC Sports California
+http://bestever.vodiptv.org:83/23546735/48790635/308836
+#EXTINF:0, group-title="US Sports",NBC Sports Chicago
+http://bestever.vodiptv.org:83/23546735/48790635/308835
+#EXTINF:0, group-title="US Sports",NBC Sports Northwest
+http://bestever.vodiptv.org:83/23546735/48790635/308833
+#EXTINF:0, group-title="US Sports",NBC Sports Philadelphia
+http://bestever.vodiptv.org:83/23546735/48790635/308832
+#EXTINF:0, group-title="US Sports",NBA TV
+http://bestever.vodiptv.org:83/23546735/48790635/308844
+#EXTINF:0, group-title="US Sports",NBA TV1 'live'
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4015
+#EXTINF:0, group-title="US Sports",NBA TV2 live
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4014
+#EXTINF:0, group-title="US Sports",NBA TV3 live
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4013
+#EXTINF:0, group-title="US Sports",NBA TV4 live
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4012
+#EXTINF:0, group-title="US Sports",NBA TV5 live
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4011
+#EXTINF:0, group-title="US Sports",NBA TV6 live
+http://mainevents.icu:8000/25252025AM2512520/24252025AM2412420/4010
