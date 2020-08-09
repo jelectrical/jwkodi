@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:0,Redbull TV
 https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:0,SSHD Action
+http://securetv.net:8080/RV7hhjBzVB/1414797054/1331
+#EXTINF:0,SSHD Arena
+http://securetv.net:8080/RV7hhjBzVB/1414797054/12408
+#EXTINF:0,SSHD Main Event
+http://securetv.net:8080/RV7hhjBzVB/1414797054/1400
+#EXTINF:0,US | TSN 2 HD
+http://securetv.net:8080/RV7hhjBzVB/1414797054/15928
+#EXTINF:0,TSN 2
+http://securetv.net:8080/RV7hhjBzVB/1414797054/40650
+#EXTINF:0,TSN 5
+http://securetv.net:8080/RV7hhjBzVB/1414797054/40647
+#EXTINF:0,US | ESPN 2 HD
+http://securetv.net:8080/RV7hhjBzVB/1414797054/15950
+#EXTINF:0,US | ESPN 2
+http://securetv.net:8080/RV7hhjBzVB/1414797054/22537
+#EXTINF:0,BT Sport 1 HD
+http://securetv.net:8080/RV7hhjBzVB/1414797054/1408
