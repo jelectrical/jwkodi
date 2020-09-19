@@ -1,76 +1,8 @@
 #EXTM3U
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Comedy
-http://bestever.vodiptv.org:83/23546735/48790635/303839
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Comedy
-http://bestever.vodiptv.org:83/23546735/48790635/304158
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Comedy
-http://bestever.vodiptv.org:83/23546735/48790635/303850
-#EXTINF:0, group-title="Movie Channels",Sky Cinema Action & Adventure
-http://bestever.vodiptv.org:83/23546735/48790635/303841
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Action
-http://bestever.vodiptv.org:83/23546735/48790635/304159
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Drama
-http://bestever.vodiptv.org:83/23546735/48790635/303848
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Drama
-http://bestever.vodiptv.org:83/23546735/48790635/303840
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Drama
-http://bestever.vodiptv.org:83/23546735/48790635/304157
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Disney
-http://bestever.vodiptv.org:83/23546735/48790635/303837
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Disney
-http://bestever.vodiptv.org:83/23546735/48790635/304004
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Family
-http://bestever.vodiptv.org:83/23546735/48790635/303836
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Family
-http://bestever.vodiptv.org:83/23546735/48790635/303847
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Family
-http://bestever.vodiptv.org:83/23546735/48790635/304156
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Hits 
-http://bestever.vodiptv.org:83/23546735/48790635/303834
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Hits
-http://bestever.vodiptv.org:83/23546735/48790635/303845
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Premier
-http://bestever.vodiptv.org:83/23546735/48790635/303833
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Premiere
-http://bestever.vodiptv.org:83/23546735/48790635/303844
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Premier 1 (vm)
-http://bestever.vodiptv.org:83/23546735/48790635/303971
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Premier
-http://bestever.vodiptv.org:83/23546735/48790635/304154
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema SciFI & Horror
-http://bestever.vodiptv.org:83/23546735/48790635/303843
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema SciFi & Horror
-http://bestever.vodiptv.org:83/23546735/48790635/303832
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema SciFI
-http://bestever.vodiptv.org:83/23546735/48790635/304153
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Select
-http://bestever.vodiptv.org:83/23546735/48790635/303831
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Select
-http://bestever.vodiptv.org:83/23546735/48790635/303842
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Select
-http://bestever.vodiptv.org:83/23546735/48790635/304152
-#EXTINF:0, group-title="Movie Channels",VIP FHD Sky Cinema Thriller
-http://bestever.vodiptv.org:83/23546735/48790635/303838
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Thriller
-http://bestever.vodiptv.org:83/23546735/48790635/303849
-#EXTINF:0, group-title="Movie Channels",VIP SD Sky Cinema Thriller
-http://bestever.vodiptv.org:83/23546735/48790635/304151
-#EXTINF:0, group-title="Movie Channels",VIP HD Sky Cinema Superheroes
-http://bestever.vodiptv.org:83/23546735/48790635/303846
-#EXTINF:0, group-title="Movie Channels",VIP FHD UNIVERSAL
-http://bestever.vodiptv.org:83/23546735/48790635/374214
-#EXTINF:0, group-title="Movie Channels",VIP FHD SKY WITNESS
-http://bestever.vodiptv.org:83/23546735/48790635/374125
-#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX EAST
-http://bestever.vodiptv.org:83/23546735/48790635/308942
-#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX ACTION MAX EAST
-http://bestever.vodiptv.org:83/23546735/48790635/308943
-#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAXX MORE MAXX
-http://bestever.vodiptv.org:83/23546735/48790635/308939
-#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX OUTERMAX
-http://bestever.vodiptv.org:83/23546735/48790635/308941
-#EXTINF:0, group-title="Movie Channels",VIP HD CINEMAX THRILLERMAX
-http://bestever.vodiptv.org:83/23546735/48790635/308940
+#EXTINF:0, group-title="US Sports",TSN4
+http://bestever.vodiptv.org:83/23546735/48790635/254100
+#EXTINF:0, group-title="US Sports",TSN4
+http://bestever.vodiptv.org:83/23546735/48790635/374371
 #EXTINF:0, group-title="UK Sports",UK Sky Sports Action
 http://bestever.vodiptv.org:83/23546735/48790635/366649
 #EXTINF:0, group-title="UK Sports",UK Sky Sports Action FHD
